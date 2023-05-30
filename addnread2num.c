@@ -15,9 +15,3 @@ int main() {
 
     return 0;
 }
-
-Output:
-
-Enter the first number: 2
-Enter the second number: 3
-The sum of 2 and 3 is 5
